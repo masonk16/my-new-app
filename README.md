@@ -1,3 +1,8 @@
-# My New App
+# Git Hooks and CI/CD pipeline
 
-- Adding changes for upload to the new branch.
+- What git hooks are?
+- pre-commit hooks (local)
+- post-commit hooks (server)
+- What CI/CD is?
+- Outline the CI/CD pipeline
+- Tools in the pipeline
